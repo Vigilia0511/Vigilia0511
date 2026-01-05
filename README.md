@@ -72,21 +72,3 @@ An IoT-based system designed for comprehensive home automation.
 
 **Bachelor of Science in Information Technology (BSIT)**
 *Cagayan State University - Gonzaga Campus | 2022 - Present*
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vigilia0511&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vigilia0511&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## How to Reach Me
-
-* **Portfolio:** [marcvigilia.vercel.app](https://marcvigilia.vercel.app/)
-* **Email:** joshuacajimatvigilia@gmail.com
-* **Location:** San Jose, Gonzaga, Cagayan

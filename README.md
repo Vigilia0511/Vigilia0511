@@ -1,4 +1,4 @@
-# Marc Joshua C. Vigilia
+# Hello, I'm Marc Joshua C. Vigilia
 
 ### Aspiring Software Engineer | BSIT Student
 
